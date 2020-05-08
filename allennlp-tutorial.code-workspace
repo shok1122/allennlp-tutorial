@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.dataScience.jupyterServerURI": "http://kakei-1912-d01.ssn.nitech.ac.jp:8888/?token=fnwksfi9tv83wspgcjmhz9sd0x0ckw2n93iwcnt0tl1pc5yw"
+	}
 }
